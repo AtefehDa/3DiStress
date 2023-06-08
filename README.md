@@ -3,4 +3,6 @@
 
 Please install the required packages specified in "requirements.txt" to run this program.
 
-This program takes the discritised geometry (mesh) of a coal seam, apply appropriate boundary conditions and obtain the stress distribution across the whole domain using Finite Element Analysis. in "src" directory you will find sub-directories "data" where the required input data is stored in .txt format, the next sub-directory is called "test" where you can find .py files which are different molues written in Python language and are imported in the main program body which is written in "Runner.py" file.
+This program takes the discritised geometry (mesh) of a coal seam, apply appropriate boundary conditions and obtain the stress distribution across the whole domain using Finite Element Analysis. 
+
+In "src" directory you will find sub-directory "data" where the required input data is stored in .txt format, the next sub-directory is called "test" where you can find .py files which are different modules imported in the main program body which is written in "Runner.py" file.
